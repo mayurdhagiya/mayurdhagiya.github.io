@@ -1,2 +1,3 @@
 # mayurdhagiya.github.io
-my site
+My Personal Site
+https://mayurdhagiya.github.io/
