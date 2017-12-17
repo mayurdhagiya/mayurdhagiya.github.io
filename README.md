@@ -1,3 +1,5 @@
 # mayurdhagiya.github.io
-My Personal Site
+Mayur Dhagiya
++91-9722504243
+
 https://mayurdhagiya.github.io/
